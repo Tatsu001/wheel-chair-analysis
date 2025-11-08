@@ -5,3 +5,5 @@ requests
 jupyter
 matplotlib
 folium
+google-cloud-bigquery
+db-dtypes

@@ -1,0 +1,4 @@
+﻿city,total_attractions,accessible_count,accessible_rate,partial_count,partial_rate,unknown_count,unknown_rate
+Tokyo,958,6,0.63,78,8.14,857,89.46
+Osaka,330,2,0.61,18,5.45,302,91.52
+Nagoya,252,0,0.0,14,5.56,238,94.44

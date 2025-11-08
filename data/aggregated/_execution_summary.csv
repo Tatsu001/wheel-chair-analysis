@@ -1,0 +1,11 @@
+﻿number,name,rows,columns,file,status
+01,都市別_カテゴリ別件数,10,4,01_都市別_カテゴリ別件数.csv,Success
+02,観光地タイプ別BF対応状況,7,6,02_観光地タイプ別BF対応状況.csv,Success
+03,都市別観光地タイプ分布,22,3,03_都市別観光地タイプ分布.csv,Success
+04,BFスコア分布,4,3,04_BFスコア分布.csv,Success
+05,BF設備別設置率,2,3,05_BF設備別設置率.csv,Success
+06,BF対応施設TOP20,20,8,06_BF対応施設TOP20.csv,Success
+07,都市別BF対応率比較,3,8,07_都市別BF対応率比較.csv,Success
+08,地図用_BF対応施設データ,97,10,08_地図用_BF対応施設データ.csv,Success
+09,サマリー統計_KPI,1,8,09_サマリー統計_KPI.csv,Success
+10,観光地タイプ_都市クロス集計,8,5,10_観光地タイプ_都市クロス集計.csv,Success

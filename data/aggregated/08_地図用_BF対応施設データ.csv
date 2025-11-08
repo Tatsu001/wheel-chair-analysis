@@ -1,0 +1,98 @@
+﻿city,unified_name,tourism,lat,lon,bf_score,bf_category,wheelchair,toilets_wheelchair,website
+Nagoya,Spaceship-Aqua Rooftop Lookout,viewpoint,35.1708547,136.9096908,40,部分対応,yes,,
+Nagoya,西の丸御蔵城宝館,museum,35.1844477,136.8976611,40,部分対応,yes,,
+Nagoya,松坂屋美術館,museum,35.1644265,136.9082378,40,部分対応,yes,,
+Nagoya,ヤマザキマザック美術館,museum,35.1710573,136.9198961,40,部分対応,yes,,https://www.mazak-art.com/english/
+Nagoya,フォトサロン　サン・ルゥ,museum,35.1699594,136.9117455,40,部分対応,yes,,
+Nagoya,名古屋芸術大学アートスペース　T.A.G.IZUTO,museum,35.171216,136.9045396,40,部分対応,yes,,
+Nagoya,徳川美術館,museum,35.1836864,136.9331025,40,部分対応,yes,,
+Nagoya,徳川園,viewpoint,35.1841482,136.9323578,40,部分対応,yes,,
+Osaka,みどりのみゅーじあむ,museum,34.7494006,135.4237262,55,対応済,yes,yes,
+Osaka,不倒館,museum,34.6513318,135.5863229,40,部分対応,yes,,
+Osaka,ハリーポッター・アンド・ザ・フォービドゥン・ジャーニー,attraction,34.6688375,135.4316302,40,部分対応,yes,,
+Osaka,大阪歴史博物館,museum,34.6826183,135.5208131,40,部分対応,yes,,https://www.osakamushis.jp/
+Osaka,天保山ハーバービレッジ,attraction,34.6551472,135.4299216,40,部分対応,yes,,
+Osaka,あまらぶアートラボ　A-Lab,museum,34.72291,135.4227312,40,部分対応,yes,,
+Osaka,キッズプラザ大阪,theme_park,34.7045253,135.5102709,40,部分対応,yes,,https://www.kidsplaza.or.jp/
+Osaka,造幣博物館,museum,34.6958942,135.5216842,40,部分対応,yes,,https://www.mint.go.jp/enjoy/plant-osaka/plant_museum.html
+Osaka,大阪府立現代美術センター,museum,34.6839942,135.5180899,40,部分対応,yes,,
+Osaka,大阪城天守閣,attraction,34.6873398,135.5258386,40,部分対応,yes,,https://osakacastle.net/
+Osaka,尾浜履物博物館,museum,34.7378294,135.4207688,20,未対応,limited,,
+Osaka,スペース○○,gallery,34.7365978,135.4004187,20,未対応,limited,,
+Osaka,アメリカ村,attraction,34.6720061,135.4988014,20,未対応,limited,,
+Osaka,画廊喫茶「蜜」,gallery,34.7227057,135.412051,20,未対応,limited,,http://cafemitsu.blog.fc2.com/
+Tokyo,草間彌生美術館,museum,35.7032011,139.7264837,55,対応済,yes,yes,https://yayoikusamamuseum.jp/
+Tokyo,江東区深川江戸資料館,museum,35.6810519,139.8005482,55,対応済,yes,yes,
+Tokyo,すがもんのおしり,attraction,35.7344533,139.7346558,40,部分対応,yes,,
+Tokyo,熊谷守一美術館,museum,35.733742,139.69087,40,部分対応,yes,,
+Tokyo,東京シティビュー,viewpoint,35.66043,139.7290554,40,部分対応,yes,,
+Tokyo,東京ステーションギャラリー,museum,35.6824302,139.7664939,40,部分対応,yes,,http://www.ejrcf.or.jp/gallery/
+Tokyo,一客,gallery,35.6683536,139.7119176,40,部分対応,yes,,
+Tokyo,富士山の見える場所,viewpoint,35.6578739,139.6604179,40,部分対応,yes,,
+Tokyo,代田富士見橋,attraction,35.6579103,139.6600005,40,部分対応,yes,,
+Tokyo,朝礼台,viewpoint,35.6588625,139.655692,40,部分対応,yes,,
+Tokyo,中央区立郷土天文館,museum,35.6666557,139.7766153,40,部分対応,yes,,
+Tokyo,相田みつを美術館,museum,35.6774598,139.7645151,40,部分対応,yes,,
+Tokyo,独立行政法人国立科学博物館附属自然教育園,zoo,35.636007,139.721312,40,部分対応,yes,,
+Tokyo,江戸下町伝統工芸館,museum,35.716384,139.793803,40,部分対応,yes,,
+Tokyo,思い出横丁,attraction,35.6930689,139.6995016,40,部分対応,yes,,
+Tokyo,インターメディアテク,museum,35.6800322,139.764534,40,部分対応,yes,,http://www.intermediatheque.jp/
+Tokyo,NHKスタジオパーク,museum,35.6651148,139.6965929,40,部分対応,yes,,https://www.nhk.or.jp/studiopark/
+Tokyo,渋谷スクランブル交差点展望台,viewpoint,35.658653,139.6998497,40,部分対応,yes,,
+Tokyo,アメヤ横丁,attraction,35.7100592,139.7745428,40,部分対応,yes,,
+Tokyo,健康と医学の博物館,museum,35.7100384,139.7643646,40,部分対応,yes,,
+Tokyo,東京ラーメンストリート,attraction,35.6803754,139.7678774,40,部分対応,yes,,https://www.tokyoeki-1bangai.co.jp/street/ramen/
+Tokyo,切手の博物館,museum,35.7182677,139.7057801,40,部分対応,yes,,https://kitte-museum.jp
+Tokyo,Naka-dori,viewpoint,35.678537,139.7623099,40,部分対応,yes,,
+Tokyo,サントリー美術館,museum,35.6664346,139.7304575,40,部分対応,yes,,
+Tokyo,東京大学農学資料館,museum,35.716155,139.758873,40,部分対応,yes,,
+Tokyo,たいとうアートギャラリー,gallery,35.7126533,139.7799259,40,部分対応,yes,,
+Tokyo,東大正門,attraction,35.7129409,139.7596604,40,部分対応,yes,,
+Tokyo,すみだ水族館,aquarium,35.7101011,139.8093338,40,部分対応,yes,,
+Tokyo,方南銀座商店街,attraction,35.683558,139.6584106,40,部分対応,yes,,
+Tokyo,出光美術館,museum,35.6763721,139.7609079,40,部分対応,yes,,https://idemitsu-museum.or.jp/
+Tokyo,Hinokicho Park (Tokyo MidTown Main Winter Illumination),attraction,35.6665798,139.7315986,40,部分対応,yes,,
+Tokyo,Ginza Chuo Dori Winter Illumination,attraction,35.6791993,139.7716073,40,部分対応,yes,,
+Tokyo,Sumida River Walk,viewpoint,35.6876584,139.7929387,40,部分対応,yes,,
+Tokyo,Memorial Peace Flame,attraction,35.655255,139.7493634,40,部分対応,yes,,
+Tokyo,LOVEサイン、自由の女神、レインボーブリッジの展望台,viewpoint,35.6274004,139.7722442,40,部分対応,yes,,
+Tokyo,Maki Fine Art,gallery,35.7062715,139.737649,40,部分対応,yes,,
+Tokyo,PIGMENT,attraction,35.6212911,139.7495393,40,部分対応,yes,,
+Tokyo,渋谷スカイ,viewpoint,35.6582857,139.7022617,40,部分対応,yes,,https://www.shibuya-scramble-square.com/sky/
+Tokyo,日本オリンピックミュージアム,museum,35.6749482,139.7151556,40,部分対応,yes,,https://japan-olympicmuseum.jp
+Tokyo,万世橋駅 跡地,attraction,35.6975133,139.7695765,40,部分対応,yes,,
+Tokyo,マンボー漫画喫茶,attraction,35.6915374,139.7701624,40,部分対応,yes,,
+Tokyo,アートアクアリウム美術館 GINZA,museum,35.67138,139.7657079,40,部分対応,yes,,
+Tokyo,楽天ミュージアム,museum,35.6106251,139.6302277,40,部分対応,yes,,
+Tokyo,東京アニメセンター,museum,35.6613939,139.7005702,40,部分対応,yes,,
+Tokyo,トライアンフギャラリー,gallery,35.6814698,139.771564,40,部分対応,yes,,
+Tokyo,早稲田大学會津八一記念博物館,museum,35.708554,139.7203599,40,部分対応,yes,,https://www.waseda.jp/culture/aizu-museum/
+Tokyo,東京女子医科大学史料室・吉岡彌生記念室,museum,35.697188,139.72029,40,部分対応,yes,,
+Tokyo,teamLab Borderless Museum,museum,35.6616023,139.7412674,40,部分対応,yes,,https://www.teamlab.art/e/tokyo/
+Tokyo,HANASAKA STAND,museum,35.6798127,139.7694768,40,部分対応,yes,,https://www.yanmar.com/jp/about/hanasaka/#hanasaka-stand
+Tokyo,GINZA SIX ガーデン,viewpoint,35.6697382,139.7637749,40,部分対応,yes,,
+Tokyo,丸の内ハウス,viewpoint,35.6824495,139.7646788,40,部分対応,yes,,
+Tokyo,東京交通会館コリーヌ,viewpoint,35.674874,139.7639371,40,部分対応,yes,,
+Tokyo,コニカミノルタ プラネタリア,attraction,35.6735636,139.7624539,40,部分対応,yes,,https://planetarium.konicaminolta.jp/planetariatokyo/
+Tokyo,東京農業大学「食と農」の博物館,museum,35.638983,139.631778,40,部分対応,yes,,https://www.nodai.ac.jp/campus/facilities/syokutonou/
+Tokyo,Sky Circus,viewpoint,35.729442,139.7180675,40,部分対応,yes,,
+Tokyo,森美術館,museum,35.660432,139.729261,40,部分対応,yes,,https://www.mori.art.museum/jp/index.html
+Tokyo,江東区中川船番所資料館,museum,35.6875807,139.8463633,40,部分対応,yes,,
+Tokyo,練馬区立美術館,museum,35.7370302,139.6361548,40,部分対応,yes,,
+Tokyo,上野の森美術館,museum,35.7128522,139.7747663,40,部分対応,yes,,https://www.ueno-mori.org/
+Tokyo,田端文士村記念館,museum,35.738472,139.759259,40,部分対応,yes,,http://www.kitabunka.or.jp/tabata/
+Tokyo,山種美術館,museum,35.6531744,139.7136407,40,部分対応,yes,,http://www.yamatane-museum.or.jp
+Tokyo,目黒寄生虫館,museum,35.6317,139.706666,35,部分対応,limited,yes,https://www.kiseichu.org/Pages/default.aspx
+Tokyo,菊池寛実記念智美術館,museum,35.666041,139.744605,20,未対応,limited,,
+Tokyo,野球殿堂博物館,museum,35.7055787,139.7528979,20,未対応,limited,,
+Tokyo,かちどき 橋の資料館,museum,35.6630488,139.7736585,20,未対応,limited,,
+Tokyo,静嘉堂文庫美術館,museum,35.6787799,139.7614042,20,未対応,limited,,https://www.seikado.or.jp/
+Tokyo,NEW ART LAB,gallery,35.6739346,139.770143,20,未対応,limited,,
+Tokyo,印刷博物館,museum,35.7091646,139.7414372,20,未対応,limited,,
+Tokyo,阿美橫丁,attraction,35.7097123,139.7743577,20,未対応,limited,,
+Tokyo,五島美術館,museum,35.612436,139.6353641,20,未対応,limited,,https://www.gotoh-museum.or.jp/
+Tokyo,タイトー ゲームセンター,attraction,35.689805,139.7022802,20,未対応,limited,,
+Tokyo,荒川ロックゲート,viewpoint,35.6829903,139.8473867,20,未対応,limited,,
+Tokyo,五島美術館別館,museum,35.6119856,139.6358686,20,未対応,limited,,
+Tokyo,レゴランド・ディスカバリー・センター,theme_park,35.6288171,139.775669,20,未対応,limited,,
+Tokyo,江東区芭蕉記念館,museum,35.686129,139.794092,15,未対応,,yes,https://www.kcf.or.jp/basho/
